@@ -1,1 +1,1 @@
-# full-stack-june-2022
+HTML CSS & JS files for Full Stack course
